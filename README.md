@@ -1,4 +1,4 @@
--- 👋 Hi, I’m @fatimatsuri
+-- 👋 Hi, I’m Fatima!
 - 👀 I’m interested in learning how to code and creating projects I actually care about.
 - 🌱 I’m currently learning HTML, CSS, Java, Python, SQL, and more in the future!
 
